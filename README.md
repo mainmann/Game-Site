@@ -1,7 +1,8 @@
 # Zentry - A New Age MMORPG
 > Uniting players from different games into one immersive platform
 
-![Zentry Logo](public/img/logo.png)
+<img width="40" alt="logo" src="https://github.com/user-attachments/assets/203b9e92-b61d-4d36-976d-04d84e1089dd" />
+
 
 ## Description
 
@@ -33,12 +34,15 @@ As stated in the application: "The Game of Games begins—your life, now an epic
 
 ### Hero Section
 <!-- Add hero section screenshots/videos here -->
-
+![Hero-Gsap](img)
 ### About Section
 <!-- Add about section screenshots/videos here -->
-
+![About-Gsap](img)
 ### Features Gallery
 <!-- Add feature gallery screenshots/videos here -->
+![Card Animations](img)
+### Footer 
+![Footer](https://github.com/user-attachments/assets/87405bf5-145b-42ca-8764-ba660cde3b6f)
 
 ## Installation
 
